@@ -69,8 +69,6 @@ Les données utilisateur et les tâches sont stockées dans **LocalStorage**.
 
 ## 📂 Structure du projet
 
-## 🎥 Démo Vidéo
-
-▶️ **Regarder la démo :**  
-[Voir la vidéo](demo.mp4)
-
+<video src="demo.mp4" controls width="600">
+Votre navigateur ne supporte pas la lecture de vidéo.
+</video>
